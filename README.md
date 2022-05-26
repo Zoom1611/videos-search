@@ -41,10 +41,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Description
 
-React application for searching videos based on typed term inside input. YouTube API is delivering all informations :)
+React application for searching videos based on typed term inside input. YouTube API is delivering all informations. Website is working on my localhost3000 but when I deploy it with Netlify and try to open it it doesn't work. Trying to solve this issue. 
 
 ## Link to website
 
 ```
-
+https://zoom-video-search.netlify.app/
 ```
